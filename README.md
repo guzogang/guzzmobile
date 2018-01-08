@@ -1,4 +1,4 @@
-ice...N60## Welcome to GuzzMobile
+## Welcome to GuzzMobile
 
 GuzzMobile is a mobile software & service development outfit with solutions and services including mobile app development, mobile content aggregation and value added mobile integration. We develop financial & banking, telecommuincations, retail & marketing, insurance, lifestyle mobile apps on both android & IOS platforms, aggregate content for mobile apps including video, music, news & social feeds, we also develop and integrate value added SMS/USSD applications including event alert systems, location alert systems, payment alert system etc.
 
@@ -22,7 +22,7 @@ Our Mobile App Development Services include developing static, dynamic, e-commer
 
 - **Dynamic Mobile App** ... usually a mobile app typically containing static features above plus some dynamic server activity including user login & registration & user database, use of a maximum of 2 rest apis excluding any payment api( see price for that below). **_Price...N500k_** 
 
-- **Ecommerce Mobile App** ... usually a mobile app typically containing static + dynamic features above plus a maximum of 30 products cart. Please add payment api price ( see price below) to this base price for complete system. **_Pr0k_** 
+- **Ecommerce Mobile App** ... usually a mobile app typically containing static + dynamic features above plus a maximum of 30 products cart. Please add payment api price ( see price below) to this base price for complete system. **_Price...N600k_** 
 
 - **P.S ..An itunes connect account @ $99/yr is required to distribute your app.**
 
@@ -38,11 +38,11 @@ Our Mobile App Development Services include developing static, dynamic, e-commer
 
 ### Mobile Content Aggregation
 
-Our Mobile Content Aggregation Services include sourcing for music, video, news and social feeds based on customer preference and categorization . Please **_Contact US_** below with your detailed needs for pricing information for services in this section.
+Our Mobile Content Aggregation Services include sourcing for music, video, news and social feeds based on customer preference and categorization . Please **contact us** below with your detailed needs for pricing information for services in this section.
 
 ### Value Added Mobile SMS/USSD Integretion
 
-Our Value Added Mobile SMS/USSD Integration Services include providing backend sms or ussd based services and solutions for applications such as evert alert, location alert, price alert, payment alert etc. Please **_Contact US_**  below with your detailed requirements for pricing information for services in this section.
+Our Value Added Mobile SMS/USSD Integration Services include providing backend sms or ussd based services and solutions for applications such as evert alert, location alert, price alert, payment alert etc. Please **contact us**  below with your detailed requirements for pricing information for services in this section.
 
 ### Support or Contact
 
