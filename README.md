@@ -44,9 +44,12 @@ Our Mobile Content Aggregation Services include sourcing for music, video, news 
 
 Our Value Added Mobile SMS/USSD Integration Services include providing backend sms or ussd based services and solutions for applications such as evert alert, location alert, price alert, payment alert etc. Please **contact us**  below with your detailed requirements for pricing information for services in this section.
 
+### Project/Payment Structure
+A payment model of 40% upfront, 30% middleway & 20% at completion is normally adopted on all projects except special projects or customizations which may attract higher upfront & middleway percentages. Typically all static mobile apps are usually delivered within a 2/3 wks period - if all materials such as photos/video are provided on time. All Dynamic mobile apps usually take a minimum of 4wks, while Ecommerce mobile apps takes a minimum of 6wks and other projects depending on project scope & specifications may take longer.
+
 ### Support or Contact
 
-To get started please contact us with your new product or services requirements via any of the channels below or if you need support on any of our existing product or service. Thank you.
+To get started, please contact us with your new product or services requirements via any of the channels below or if you need support on any of our existing product or service. Thank you.
 
 - Email   :  [guzzmobile@gmail.com]
 - Tel(US) :  [+1-617-942-1366]
